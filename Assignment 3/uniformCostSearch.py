@@ -1,3 +1,6 @@
+# Uniform Cost Search
+
+
 def uniform_cost_search(goal, start):
     global graph, cost
     answer = []
