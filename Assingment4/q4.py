@@ -1,4 +1,6 @@
-def explore(graph,val,pq,parent,beta): 
+#Beam Search Algorithm
+
+def explore(graph,val,pq,parent,beta):
     if(graph[val]==None):
         return 
     for heu,name in graph[val]:

@@ -1,3 +1,5 @@
+#Simple Hill Climbing +1/-1
+
 from copy import deepcopy as dc
 
 class pair:

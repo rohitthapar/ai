@@ -1,3 +1,5 @@
+#Simple Hill Climbing +n/-n
+
 from copy import deepcopy as dc
 class pair:
     def __init__(self,below,block):
